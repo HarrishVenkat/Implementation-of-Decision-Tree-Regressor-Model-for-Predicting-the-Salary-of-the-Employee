@@ -8,10 +8,15 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
- Step 1: Import the libraries and read the data frame using pandas.
+```
+Step 1: Import the libraries and read the data frame using pandas.
+
 Step 2: Calculate the null values present in the dataset and apply label encoder.
+
 Step 3: Determine test and training data set and apply decison tree regression in dataset.
+
 Step 4: calculate Mean square error,data prediction and r2. 
+```
 ## Program:
 ```
 /*
