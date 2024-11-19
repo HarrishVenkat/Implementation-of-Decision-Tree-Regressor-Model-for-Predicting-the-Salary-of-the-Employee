@@ -9,13 +9,12 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 ## Algorithm
 ```
-Step 1: Import the libraries and read the data frame using pandas.
-
-Step 2: Calculate the null values present in the dataset and apply label encoder.
-
-Step 3: Determine test and training data set and apply decison tree regression in dataset.
-
-Step 4: calculate Mean square error,data prediction and r2. 
+step 1:Start the program
+step 2: Import the libraries and read the data frame using pandas.
+step 3: Calculate the null values present in the dataset and apply label encoder.
+step 4: Determine test and training data set and apply decison tree regression in dataset.
+step 5:calculate Mean square error,data prediction and r2.
+step 6:End the program
 ```
 ## Program:
 ```
